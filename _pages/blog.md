@@ -1,7 +1,8 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: Blog
+description: Beginner-Friendly Tips for Data Science Analysis and Model Building
 nav: true
 nav_order: 1
 pagination:
